@@ -8,4 +8,4 @@ mv ~/.vim/.vimrc ~/.vimrc
 ```
 All set ! 
 
-For padawans: read the '''.vimrc''' for reference and use it. 
+For padawans: read the `.vimrc` for reference and use it. 
